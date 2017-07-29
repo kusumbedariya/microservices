@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: producer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ADMINIBM
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/producer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
